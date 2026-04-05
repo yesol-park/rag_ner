@@ -20,7 +20,7 @@ GPT에게 문장 + 온톨로지 컨텍스트 전달 → 엔티티 span 추출
     ↓
 IOB 파일 저장 + 성능 평가
 
-
+[결과]
                           Exact  Partial
   Baseline F1            0.5064   0.6859
   RAG F1                 0.5000   0.6623
